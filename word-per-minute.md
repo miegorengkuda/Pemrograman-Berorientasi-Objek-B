@@ -3,5 +3,5 @@ Rata - rata untuk orang pada umumnya adalah sekitar 40 WPM.
 
 Ini adalah hasil test WPM saya:
 
+<img width="2846" height="1598" alt="image" src="https://github.com/user-attachments/assets/b49ec476-0881-489e-b4d5-373834376daa" />
 
-<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/5e7cf320-0d4a-4d4a-a8e1-5713ae99cd83" />
