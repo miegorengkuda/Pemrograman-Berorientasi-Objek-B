@@ -2,7 +2,7 @@ Dokumentasi Tugas atau Project mata kuliah Pemrograman Berorientasi Objek (B)
 
 Dafa Kumara Sahasika (5025241112)
 
-
+## Skill Typewriter
 _**Word per Minute**_ adalah ukuran untuk menghitung seberapa cepat seseorang mengetik dalam satu menit, dinyatakan dalam jumlah kata.
 Rata - rata untuk orang pada umumnya adalah sekitar 40 WPM.
 
