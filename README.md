@@ -8,3 +8,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 3**
 [Mendefinisikan kelas Ticket Machine](ticket-machine.md)
+
+### **Week 4**
+[Membuat Jam Digital](clock.md)
