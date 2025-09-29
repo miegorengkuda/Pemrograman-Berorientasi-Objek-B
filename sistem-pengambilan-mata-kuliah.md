@@ -12,7 +12,7 @@ Ini adalah visualisasi dalam bentuk diagramnya.
 
 Ini adalah outputnya.
 
-![Uploading Screenshot 2025-09-29 223538.png…]()
+<img width="1000" height="400" alt="Screenshot 2025-09-29 223538" src="https://github.com/user-attachments/assets/1cb1990a-7a7b-4939-bf17-b5014b14d555" />
 
 
 
