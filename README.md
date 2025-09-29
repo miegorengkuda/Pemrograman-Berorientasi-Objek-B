@@ -11,3 +11,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 4**
 [Membuat Jam Digital](clock.md)
+
+### **Week 5**
+[Sistem Pengambilan Mata Kuliah](sistem-pengambilan-mata-kuliah.md)
