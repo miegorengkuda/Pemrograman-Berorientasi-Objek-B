@@ -17,3 +17,4 @@ Ini adalah outputnya.
 
 
 dan ini source codenya. 
+[Mahasiswa](Mahasiswa.java), [dosen](Dosen.java), [mata kuliah](MataKuliah.java), [FRS](FRS.java), dan [main](Main.java)
