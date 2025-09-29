@@ -27,7 +27,7 @@ public class Main {
         // --- PROSES DAFTAR MAHASISWA KE KELAS ---
         mk1.daftarMahasiswa(mhs1); 
         mk1.daftarMahasiswa(mhs2); 
-        mk1.daftarMahasiswa(mhs3); // Gagal
+        mk1.daftarMahasiswa(mhs3);
 
         mk2.daftarMahasiswa(mhs1); 
         
