@@ -12,7 +12,7 @@ Project Personal Organizer dengan Java menggunakan collection (ArrayList) untuk 
 
 
 
-[ini](Task.java) [kodenya.](PersonalOrganizer.java)
+[ini](grouping/Task.java) [kodenya.](grouping/PersonalOrganizer.java)
 
 Project Notebook (Personal Note App) menggunakan Java Collection (ArrayList).
 Fitur Notebook
@@ -26,7 +26,7 @@ Fitur Notebook
 <img width="800" height="1100" alt="Screenshot 2025-10-06 223648" src="https://github.com/user-attachments/assets/a483de76-13b3-4f21-90a1-9c4bda62e81f" />
 <img width="900" height="800" alt="Screenshot 2025-10-06 223720" src="https://github.com/user-attachments/assets/52e69cd1-4162-4852-842f-439cf7de15b7" />
 
-[ini](Note,java) [kodenya.](NotebookApp.java)
+[ini](grouping/Note.java) [kodenya.](grouping/NotebookApp.java)
 
 
 
