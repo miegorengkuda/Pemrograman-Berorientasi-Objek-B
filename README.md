@@ -14,3 +14,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 5**
 [Sistem Pengambilan Mata Kuliah](sistem-pengambilan-mata-kuliah.md)
+
+### **Week 6**
+[Latihan Grouping Object](grouping.md)
