@@ -17,3 +17,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 6**
 [Latihan Grouping Object](grouping.md)
+
+### **Week 7**
+[Membuat Tech Support](tech_support.md)
