@@ -20,3 +20,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 7**
 [Membuat Tech Support](tech_support.md)
+
+### **Week 8**
+[ETS - Vending Snack Machine](vending-machine.md)
