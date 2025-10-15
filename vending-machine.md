@@ -27,4 +27,6 @@ Hasil Terminal.
 
 source [code.](VendingSnack)
 
+Video [Youtube.](https://youtu.be/Ynb3B4JDgpo)
+
 
