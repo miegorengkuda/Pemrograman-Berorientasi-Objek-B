@@ -23,3 +23,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 8**
 [ETS - Vending Snack Machine](vending-machine.md)
+
+### **Week 9**
+[Desain Class](world-of-zuul.md)
