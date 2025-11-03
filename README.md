@@ -26,3 +26,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 9**
 [Desain Class](world-of-zuul.md)
+
+### **Week 10**
+[Sales item - Testing and Debugging](testing.md)
