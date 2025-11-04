@@ -9,6 +9,21 @@ Testing dilakukan dengan mengacu pada test plan dan test cases.
 
 Debugging adalah aktivitas yang dilakukan untuk mencari posisi kesalahan dan memperbaikinya apabila dari hasil testing diperoleh indikasi adanya error atau defect.
 
+<img width="709" height="639" alt="Screenshot 2025-11-04 002216" src="https://github.com/user-attachments/assets/8da7c0a3-4172-440d-a118-4c7fc61af53a" />
+
+
+- Buat objek SalesItem di object bench, misalnya: SalesItem item1 = new SalesItem('Baso', 20000);
+- Tambahkan komentar: salesite1.addComment('budi', 'enak', 5);
+- Tampilkan info: salesIte1.showInfo();
+- Uji batas rating (1–5) dan larangan komentar ganda dari author yang sama.
+
+Ini adalah hasil testingnya di `SalesItemTest`
+
+<img width="1168" height="338" alt="image" src="https://github.com/user-attachments/assets/0c2c5065-05b3-4d5d-b194-abc7f3a5cbf3" />
+
+
+<img width="1002" height="643" alt="Screenshot 2025-11-04 002204" src="https://github.com/user-attachments/assets/23ace8d8-a30f-499b-bfb5-768765322a31" />
+
 
 `SalesItem.java`
 ```java
