@@ -29,3 +29,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 10**
 [Sales item - Testing and Debugging](testing.md)
+
+### **Week 11**
+[Memperbaiki Struktur dengan Inheritance](inheritance.md)
