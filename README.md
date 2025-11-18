@@ -32,3 +32,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 11**
 [Memperbaiki Struktur dengan Inheritance](inheritance.md)
+
+### **Week 12**
+[Abstraksi Kelas](abstraksi-kelas.md)
