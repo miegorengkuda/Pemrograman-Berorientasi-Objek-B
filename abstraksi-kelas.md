@@ -19,7 +19,7 @@ Desain Kelas:
    - Animal: `move()`
    - Plant: `photosynthesize()`
 3. Subkelas Konkret (Contoh: Programmer, Doctor, Dog, Bird, FloweringPlant, NonFloweringPlant):
-   - Tujuan: Mengimplementasikan semua metode abstrak yang diwarisi dari kelas-kelas abstrak di atasnya.S
+   - Tujuan: Mengimplementasikan semua metode abstrak yang diwarisi dari kelas-kelas abstrak di atasnya.
    - Setiap subclass memberikan implementasi unik untuk metode seperti `grow()`, `speak()`, `move()`, dan `photosynthesize()`, sesuai dengan jenis makhluk hidup tersebut.
   
 Diagram:
