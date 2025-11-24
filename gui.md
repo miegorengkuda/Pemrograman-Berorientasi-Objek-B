@@ -12,4 +12,4 @@ JFC termasuk diantara 5 bagian utama dari API yaitu AWT dan Swing.
 
 <img width="2880" height="1800" alt="Screenshot 2025-11-24 215739" src="https://github.com/user-attachments/assets/e4785e00-dd14-40c3-9ff4-18ea33422086" />
 
-source (code)[]. Sumber (slide share)[https://www.slideshare.net/slideshow/program-imageviewer/123986381].
+source [code](gui). Sumber [slide share](https://www.slideshare.net/slideshow/program-imageviewer/123986381).
