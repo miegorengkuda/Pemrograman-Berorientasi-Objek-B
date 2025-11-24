@@ -35,3 +35,6 @@ Dafa Kumara Sahasika (5025241112)
 
 ### **Week 12**
 [Abstraksi Kelas](abstraksi-kelas.md)
+
+### **Week 13**
+[Graphical User Interface](gui.md)
